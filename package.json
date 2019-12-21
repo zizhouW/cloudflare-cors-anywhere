@@ -1,5 +1,5 @@
 {
-    "name": "{{ project-name }}",
+    "name": "zizhouw-cors-proxy",
     "version": "1.0.0",
     "description": "A CORS proxy running in a worker",
     "main": "index.js",
@@ -7,7 +7,7 @@
         "test": "echo \"Error: no test specified\" && exit 1",
         "format": "prettier --write '**/*.{js,css,json,md}'"
     },
-    "author": "{{ authors }}",
+    "author": "zizhouw",
     "license": "MIT",
     "devDependencies": {
         "husky": "^2.1.0",
